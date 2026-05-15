@@ -117,7 +117,7 @@ MAPS_API_KEY=your_api_key_here
 | ![Home](https://lh3.googleusercontent.com/d/1G5Vk69O6h4iboZlxv-A5Fknmu1ETbyvF) | ![Map](https://lh3.googleusercontent.com/d/1G7Du78PF_HjhOu1T_zrIF6TUesBx4jpk) | ![Passport](https://lh3.googleusercontent.com/d/17XX7YzS-BWXijQ_m-izITteC_-WS-HG6) | ![Profile](https://lh3.googleusercontent.com/d/1zYx6aG1TPLV9ZPJNh43jFpCCiNKRm6tW) |
 
 
-**📥 APK Download**: [Download Latest Release v1.0.0](https://github.com/Darshan-Gowda-A/Karunada-Kala/releases)
+**📥 APK Download**: [Download Latest Release v1.0.0](https://karunada-kala-9b946.web.app)
 
 ---
 
