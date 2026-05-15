@@ -114,9 +114,8 @@ MAPS_API_KEY=your_api_key_here
 
 | Home Screen | Discovery Map | Cultural Passport | Artisan Profile |
 | :---: | :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![Map](https://via.placeholder.com/200x400?text=Discovery+Map) | ![Passport](https://via.placeholder.com/200x400?text=Cultural+Passport) | ![Profile](https://via.placeholder.com/200x400?text=Artisan+Profile) |
+| ![Home](https://lh3.googleusercontent.com/d/1G5Vk69O6h4iboZlxv-A5Fknmu1ETbyvF) | ![Map](https://lh3.googleusercontent.com/d/1G7Du78PF_HjhOu1T_zrIF6TUesBx4jpk) | ![Passport](https://lh3.googleusercontent.com/d/17XX7YzS-BWXijQ_m-izITteC_-WS-HG6) | ![Profile](https://lh3.googleusercontent.com/d/1zYx6aG1TPLV9ZPJNh43jFpCCiNKRm6tW) |
 
-**🎥 Demo Video**: [Watch the Project Walkthrough](https://youtube.com/link-to-demo)
 
 **📥 APK Download**: [Download Latest Release v1.0.0](https://github.com/Darshan-Gowda-A/Karunada-Kala/releases)
 
@@ -140,13 +139,7 @@ Contributions are what make the open-source community thrive. If you'd like to h
 4. Push to the branch: `git push origin feature/AmazingFeature`
 5. Open a Pull Request.
 
----
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 **Darshan Gowda A**
 *Android Developer & Cultural Tech Innovator*
